@@ -30,9 +30,24 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 # 📝 Publications 
 
+† indicates the corresponding author.
+
 ### Surveys
-- Data Augmentation for Sequential Recommendation: A Survey
-  Yizhou Dang, Enneng Yang, Yuting Liu, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
+
+- **\[Arxiv 2024\]** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545),[Code](https://github.com/KingGugu/DA-CL-4Rec))  
+  Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
+
+### Research Papers
+
+- **\[RecSys 2024\]** Repeated Padding for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2403.06372),[Code](https://github.com/KingGugu/RepPad))  
+  Yizhou Dang, **Yuting Liu**, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang†, Jianzhe Zhao†
+
+- **\[ACL 2024\]** Stealthy attack on large language model based recommendation. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
+  Jinghao Zhang, **Yuting Liu**, Qiang Liu, Shu Wu†, Guibing Guo, and Liang Wang
+
+- **\[KBS 2024\]** Video and audio are images: A cross-modal mixer for original data on video–audio retrieval. ([Paper](https://www.sciencedirect.com/science/article/pii/S095070512400710X), [Code](https://github.com/Alexius233/Video-and-Audio-are-Images))  
+   Zichen Yuan, Qi Shen, Bingyi Zheng, **Yuting Liu**†, Linying Jiang, Guibing Guo
+
 # 📖 Educations
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
 - *2022.09 - 2024.06*, Master in Software Engineering, Northeastern University, Shenyang, China.
@@ -52,7 +67,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - Journal Reviewers:
   - ACM Transactions on Recommender Systems (TORS)
   - Electronic Commerce Research and Applications (ECRA)
-  - Knowledge-based System (KBS)
+  - Knowledge-based Systems (KBS)
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
