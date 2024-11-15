@@ -30,6 +30,9 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 # 📝 Publications 
 
+### Surveys
+- Data Augmentation for Sequential Recommendation: A Survey
+  Yizhou Dang, Enneng Yang, Yuting Liu, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 # 📖 Educations
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
 - *2022.09 - 2024.06*, Master in Software Engineering, Northeastern University, Shenyang, China.
