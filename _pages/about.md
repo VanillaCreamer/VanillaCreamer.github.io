@@ -80,6 +80,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 # 💻 Service
 - Conference Reviewers:
+  - The Web Conference 2025
   - ACM KDD 2024
   - The Web Conference 2024
 - Journal Reviewers:
