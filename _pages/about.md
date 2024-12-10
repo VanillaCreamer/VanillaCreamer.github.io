@@ -23,10 +23,11 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉 Four papers are accepted by AAAI 2025!
 - *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
-- *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
-- *2024.06*: &nbsp;🎉 One paper is accepted by KBS
-- *2024.05*: &nbsp;🎉 One paper is accepted by ACL 2024
+- *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024!
+- *2024.06*: &nbsp;🎉 One paper is accepted by KBS!
+- *2024.05*: &nbsp;🎉 One paper is accepted by ACL 2024!
 - *2022.06*: &nbsp;🎓 I graduated from NEU!
 
 # 📝 Publications 
