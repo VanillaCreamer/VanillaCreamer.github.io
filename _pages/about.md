@@ -23,6 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉 One papers are accepted by ICASSP 2025!
 - *2024.12*: &nbsp;🎉 Four papers are accepted by AAAI 2025!
 - *2024.11*: &nbsp;🎉 One paper is accepted by TOIS!
 - *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
@@ -41,6 +42,9 @@ My research interests include multimodal recommendation systems (RS) and persona
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
+
+- **\[ICASSP 2025\]** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.
+  **Yuting Liu**, Enneng Yang, Yizhou Dang, Qiang Liu, Yuliang Liang, Guibing Guo, Linying Jiang, Xingwei Wang
 
 - **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. Just Accepted.
   **Yuting Liu**, Jinghao Zhang, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
