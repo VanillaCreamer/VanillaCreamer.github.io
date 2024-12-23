@@ -43,22 +43,22 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Research Papers
 
-- **\[ICASSP 2025\]** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.
-  **Yuting Liu**, Enneng Yang, Yizhou Dang, Qiang Liu, Yuliang Liang, Guibing Guo, Linying Jiang, Xingwei Wang
+- **\[ICASSP 2025\]** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.  
+  **Yuting Liu**, Enneng Yang, Yizhou Dang, Qiang Liu, Yuliang Liang, Guibing Guo, Linying Jiang†, Xingwei Wang
 
-- **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. Just Accepted.
-  **Yuting Liu**, Jinghao Zhang, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+- **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. Just Accepted.  
+  **Yuting Liu**, Jinghao Zhang, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
-- **\[AAAI 2025\]** Advancing Large Language Model Fine-Tuning: A Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.
-  Pengxiang Lan, Enneng Yang, **Yuting Liu**, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+- **\[AAAI 2025\]** Advancing Large Language Model Fine-Tuning: A Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.  
+  Pengxiang Lan, Enneng Yang, **Yuting Liu**, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
-- **\[AAAI 2025\]** Augmenting Sequential Recommendation with Balanced Relevance and Diversity. Just Accepted.
-  Yizhou Dang, Jiahui Zhang, **Yuting Liu**, Enneng Yang, Yuliang Liang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+- **\[AAAI 2025\]** Augmenting Sequential Recommendation with Balanced Relevance and Diversity. Just Accepted.  
+  Yizhou Dang, Jiahui Zhang, **Yuting Liu**, Enneng Yang, Yuliang Liang, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
 
-- **\[AAAI 2025\]** Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation. Just Accepted.
-  Shuwei Gong, **Yuting Liu**, Yizhou Dang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+- **\[AAAI 2025\]** Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation. Just Accepted.  
+  Shuwei Gong, **Yuting Liu**, Yizhou Dang, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
 
-- **\[TOIS 2024\]** Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences. ([Paper](https://dl.acm.org/doi/10.1145/3706633),[Code](https://github.com/KingGugu/GFEraser))
+- **\[TOIS 2024\]** Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences. ([Paper](https://dl.acm.org/doi/10.1145/3706633),[Code](https://github.com/KingGugu/GFEraser))  
   Yizhou Dang, **Yuting Liu**, Enneng Yang, Guibing Guo†, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - **\[RecSys 2024\]** Repeated Padding for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2403.06372),[Code](https://github.com/KingGugu/RepPad))  
@@ -68,7 +68,7 @@ My research interests include multimodal recommendation systems (RS) and persona
   Jinghao Zhang, **Yuting Liu**, Qiang Liu, Shu Wu†, Guibing Guo, and Liang Wang
 
 - **\[KBS 2024\]** Video and audio are images: A cross-modal mixer for original data on video–audio retrieval. ([Paper](https://www.sciencedirect.com/science/article/pii/S095070512400710X), [Code](https://github.com/Alexius233/Video-and-Audio-are-Images))  
-   Zichen Yuan, Qi Shen, Bingyi Zheng, **Yuting Liu**†, Linying Jiang, Guibing Guo
+   Zichen Yuan, Qi Shen, Bingyi Zheng, **Yuting Liu**†, Linying Jiang, Guibing Guo†
 
 # 📖 Educations
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
