@@ -70,6 +70,9 @@ My research interests include multimodal recommendation systems (RS) and persona
 - **\[KBS 2024\]** Video and audio are images: A cross-modal mixer for original data on video–audio retrieval. ([Paper](https://www.sciencedirect.com/science/article/pii/S095070512400710X), [Code](https://github.com/Alexius233/Video-and-Audio-are-Images))  
    Zichen Yuan, Qi Shen, Bingyi Zheng, **Yuting Liu**†, Linying Jiang, Guibing Guo†
 
+- **\[ECML-PKDD 2022\]** Bi-directional Contrastive Distillation for Multi-behavior Recommendation. ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-26387-3_30))  
+  Yabo Chu, Enneng Yang, Qiang Liu, **Yuting Liu**, Linying Jiang, Guibing Guo
+
 # 📖 Educations
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
 - *2022.09 - 2024.06*, Master in Software Engineering, Northeastern University, Shenyang, China.
