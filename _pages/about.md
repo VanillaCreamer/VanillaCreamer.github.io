@@ -46,7 +46,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - **\[ICASSP 2025\]** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.  
   **Yuting Liu**, Enneng Yang, Yizhou Dang, Qiang Liu, Yuliang Liang, Guibing Guo, Linying Jiang†, Xingwei Wang
 
-- **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. Just Accepted.  
+- **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. (Oral ~20%).  
   **Yuting Liu**, Jinghao Zhang, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
 - **\[AAAI 2025\]** Advancing Large Language Model Fine-Tuning: A Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.  
@@ -88,6 +88,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 # 💻 Service
 - Conference Reviewers:
   - The Web Conference 2025
+  - IJCNN 2025
   - ACM KDD 2024
   - The Web Conference 2024
 - Journal Reviewers:
