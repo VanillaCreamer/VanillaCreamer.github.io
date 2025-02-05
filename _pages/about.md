@@ -23,7 +23,9 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉 One papers are accepted by ICASSP 2025!
+- *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025!
+- *2025.01*: &nbsp;🎉 One paper is accepted by WWW 2025!
+- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025!
 - *2024.12*: &nbsp;🎉 Four papers are accepted by AAAI 2025!
 - *2024.11*: &nbsp;🎉 One paper is accepted by TOIS!
 - *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
