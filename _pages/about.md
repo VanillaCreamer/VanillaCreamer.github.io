@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Yuting Liu (刘禹廷 in Chinese). I am a first-year PhD student at the [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof Guibing Guo](https://guoguibing.github.io/cn/) at [DSLab](https://www.dslab.org.cn/) and [AR Qiang Liu](https://people.ucas.edu.cn/~qiangliu?language=en). Before that, I earned my B.E. degree in 2022 at the same institute. I am honored to work closely with [Dr. Jinghao Zhang](https://scholar.google.com/citations?user=2yXhkbsAAAAJ&hl=en) and [Dr. Yizhou Dang](https://kinggugu.github.io/).
+Hello! This is Yuting Liu (刘禹廷 in Chinese). I am a first-year PhD student at the [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof Guibing Guo](https://guoguibing.github.io/cn/) and [AR Qiang Liu](https://people.ucas.edu.cn/~qiangliu?language=en). Before that, I earned my B.E. degree in 2022 at the same institute. I am honored to work closely with [Dr. Jinghao Zhang](https://scholar.google.com/citations?user=2yXhkbsAAAAJ&hl=en) and [Dr. Yizhou Dang](https://kinggugu.github.io/).
 
 My research interests include multimodal recommendation systems (RS) and personalized large language models (LLM). Please feel free to contact me by email if you have any questions or seeking collaborations.
 
@@ -44,6 +44,15 @@ My research interests include multimodal recommendation systems (RS) and persona
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
+
+- **\[DASFAA 2025\]** Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation. (Oral)  
+  **Yuting Liu**, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+
+- **\[DASFAA 2025\]** Self-supervised Hierarchical Representation for Medication Recommendation. (Oral)  
+  Yuliang Liang, **Yuting Liu**, Yizhou Dang, Enneng Yang, Guibing Guo, Wei Cai, Jianzhe Zhao, Xingwei Wang
+
+- **\[WWW 2025\]** Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation. (Oral)  
+  Chu Zhao, Enneng Yang, Yuliang Liang, Pengxiang Lan, **Yuting Liu**, Jianzhe Zhao, Guibing Guo, Xingwei Wang
 
 - **\[ICASSP 2025\]** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.  
   **Yuting Liu**, Enneng Yang, Yizhou Dang, Qiang Liu, Yuliang Liang, Guibing Guo, Linying Jiang†, Xingwei Wang
