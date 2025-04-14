@@ -23,6 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉 One paper is accepted by SIGIR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025!
 - *2025.01*: &nbsp;🎉 One paper is accepted by WWW 2025!
 - *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025!
@@ -44,6 +45,9 @@ My research interests include multimodal recommendation systems (RS) and persona
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
+
+- **\[SIGIR 2025\]** Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2504.04843), [Code](https://github.com/KingGugu/TTA4SR))
+  Yizhou Dang, **Yuting Liu**, Enneng Yang, Minhan Huang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
 - **\[DASFAA 2025\]** Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation. (Oral)  
   **Yuting Liu**, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
