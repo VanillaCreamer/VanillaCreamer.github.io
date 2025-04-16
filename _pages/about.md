@@ -23,7 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs] (https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models.
+- *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models.
 - *2025.04*: &nbsp;🎉 One paper is accepted by SIGIR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025!
 - *2025.01*: &nbsp;🎉 One paper is accepted by WWW 2025!
