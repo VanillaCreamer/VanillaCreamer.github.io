@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Yuting Liu (刘禹廷 in Chinese). I am a first-year PhD student at the [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof Guibing Guo](https://guoguibing.github.io/cn/) and [AR Qiang Liu](https://people.ucas.edu.cn/~qiangliu?language=en). Before that, I earned my B.E. degree in 2022 at the same institute. I am honored to work closely with [Dr. Jinghao Zhang](https://scholar.google.com/citations?user=2yXhkbsAAAAJ&hl=en) and [Dr. Yizhou Dang](https://kinggugu.github.io/).
+Hello! This is Yuting Liu (刘禹廷 in Chinese). I am a first-year PhD student at the [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof Guibing Guo](https://guoguibing.github.io/cn/) and [AR Qiang Liu](https://people.ucas.edu.cn/~qiangliu?language=en). Before that, I earned my B.E. degree in 2022 at the same institute. I am honored to work closely with [Dr. Jinghao Zhang](https://scholar.google.com/citations?user=2yXhkbsAAAAJ&hl=en) and [Dr. Yizhou Dang](https://kinggugu.github.io/). 
 
-My research interests include multimodal recommendation systems (RS) and personalized large language models (LLM). Please feel free to contact me by email if you have any questions or seeking collaborations.
+My research interests include multimodal recommendation systems (RS) and personalized large language models (LLM). Please feel free to contact me by email if you have any questions or are seeking collaborations.
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models.
+- *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models papers.
 - *2025.04*: &nbsp;🎉 One paper is accepted by SIGIR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025!
 - *2025.01*: &nbsp;🎉 One paper is accepted by WWW 2025!
@@ -47,7 +47,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Research Papers
 
-- **\[SIGIR 2025\]** Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2504.04843), [Code](https://github.com/KingGugu/TTA4SR))
+- **\[SIGIR 2025\]** Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2504.04843), [Code](https://github.com/KingGugu/TTA4SR))  
   Yizhou Dang, **Yuting Liu**, Enneng Yang, Minhan Huang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
 - **\[DASFAA 2025\]** Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation. (Oral)  
@@ -65,7 +65,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. (Oral ~20%).  
   **Yuting Liu**, Jinghao Zhang, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
-- **\[AAAI 2025\]** Advancing Large Language Model Fine-Tuning: A Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.  
+- **\[AAAI 2025\]** Advancing Large Language Model Fine-Tuning: An Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.  
   Pengxiang Lan, Enneng Yang, **Yuting Liu**, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
 - **\[AAAI 2025\]** Augmenting Sequential Recommendation with Balanced Relevance and Diversity. Just Accepted.  
@@ -111,3 +111,6 @@ My research interests include multimodal recommendation systems (RS) and persona
   - ACM Transactions on Recommender Systems (TORS)
   - Electronic Commerce Research and Applications (ECRA)
   - Knowledge-based Systems (KBS)
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=343739&w=300&t=tt&d=eimuBYNRaOftpcjrQ9vfEm6Gggdhdu4Hf6ZB0_3CvPA&co=ffffff&cmo=009fff&cmn=18e0ff&ct=00196b'></script>
