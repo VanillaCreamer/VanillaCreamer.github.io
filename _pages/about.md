@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Yuting Liu (刘禹廷 in Chinese). I am a first-year PhD student at the [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof Guibing Guo](https://guoguibing.github.io/cn/) and [AR Qiang Liu](https://people.ucas.edu.cn/~qiangliu?language=en). Before that, I earned my B.E. degree in 2022 at the same institute. I am honored to work closely with [Dr. Jinghao Zhang](https://scholar.google.com/citations?user=2yXhkbsAAAAJ&hl=en) and [Dr. Yizhou Dang](https://kinggugu.github.io/). 
+Hello! This is Yuting Liu (刘禹廷 in Chinese). I am a first-year PhD student at the [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof Guibing Guo](https://guoguibing.github.io/cn/) and [Prof Qiang Liu](https://people.ucas.edu.cn/~qiangliu?language=en). Before that, I earned my B.E. degree in 2022 at the same institute. I am honored to work closely with [Dr. Jinghao Zhang](https://scholar.google.com/citations?user=2yXhkbsAAAAJ&hl=en) and [Ph.D Student Yizhou Dang](https://kinggugu.github.io/). 
 
 My research interests include multimodal recommendation systems (RS) and personalized large language models (LLM). Please feel free to contact me by email if you have any questions or are seeking collaborations.
 
@@ -114,5 +114,5 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 # 🖥️ Internship
 
-- Ant Group
+- Research Intern at [Ant Group](https://github.com/AntResearchNLP), mentored by [Jian Guan](https://jianguanthu.github.io/)
 
