@@ -23,7 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🏆 I have just been awarded the National Scholarship!
+- *2025.10*: &nbsp;🏆 I have just been awarded the National Scholarship!
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models papers.
 - *2025.04*: &nbsp;🎉 One paper is accepted by SIGIR 2025!
