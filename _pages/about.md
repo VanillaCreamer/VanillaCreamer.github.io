@@ -23,6 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🏆 I have been awarded the National Scholarship!
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models papers.
 - *2025.04*: &nbsp;🎉 One paper is accepted by SIGIR 2025!
@@ -99,6 +100,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - *2018.09 - 2022.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
 # 🎖 Honors and Awards
+- *2025* National Scholarship for Graduate Student
 - *2023* First-Class Scholarship from NEU for Graduate Student
 - *2022* Outstanding Graduate of Northeastern University
 - *2022* Huawei Smart Base Scholarship
