@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuting Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A first-year PhD student at Northeastern University. Focusing on personalized LLM and recommender systems"
+  bio              : "A second-year PhD student at Northeastern University. Focusing on personalized LLM and recommender systems."
   location         : "Shenyang, China"
   employer         :
   pubmed           : 
