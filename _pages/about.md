@@ -100,8 +100,9 @@ My research interests include multimodal recommendation systems (RS) and persona
 - *2018.09 - 2022.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
 # 🎖 Honors and Awards
-- *2025* National Scholarship (Top 1%)
-- *2023* First-Class Scholarship from NEU for Graduate Student
+- *2025* National Scholarship for Doctoral Students (Top 1%)
+- *2023* First-Class Scholarship from NEU for Graduate Students
+- *2022* President Scholarship of Northeastern University for Graduate Students
 - *2022* Outstanding Graduate of Northeastern University
 - *2022* Huawei Smart Base Scholarship
 - *2021* Northeastern University Cai Guanshen Scholarship
