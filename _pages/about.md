@@ -50,7 +50,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Research Papers
 
-- **\[AAAI 2025\]** RAGAR: Retrieval Augmented Personalized Image Generation Guided by Recommendation. (Poster)
+- **\[AAAI 2025\]** RAGAR: Retrieval Augmented Personalized Image Generation Guided by Recommendation. (Poster)    
   Run Ling, Wenji Wang, **Yuting Liu**, Guibing Guo, Haowei Liu, Jian Lu, Quanwei Zhang, Yexing Xu, Shuo Lu, Yun wang, Yihua Shao, Linying Jiang, Xingwei Wang
 
 - **\[ACL 2025\]** Stealthy attack on large language model based recommendation. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
