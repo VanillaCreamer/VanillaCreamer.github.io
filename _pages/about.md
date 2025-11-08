@@ -23,6 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026!
 - *2025.10*: &nbsp;🏆 I have just been awarded the National Scholarship!
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models papers.
@@ -48,6 +49,9 @@ My research interests include multimodal recommendation systems (RS) and persona
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
+
+- **\[AAAI 2025\]** RAGAR: Retrieval Augmented Personalized Image Generation Guided by Recommendation. (Poster)
+  Run Ling, Wenji Wang, **Yuting Liu**, Guibing Guo, Haowei Liu, Jian Lu, Quanwei Zhang, Yexing Xu, Shuo Lu, Yun wang, Yihua Shao, Linying Jiang, Xingwei Wang
 
 - **\[ACL 2025\]** Stealthy attack on large language model based recommendation. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
   Jinghao Zhang, **Yuting Liu**, Wenjie Wnag, Qiang Liu, Shu Wu, Liang Wang, Tat-Seng Chua
