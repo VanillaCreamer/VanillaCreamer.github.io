@@ -45,7 +45,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Surveys
 
-- **\[Arxiv 2024\]** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545),[Code](https://github.com/KingGugu/DA-CL-4Rec))  
+- **\[Arxiv 2024\]** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545), [Repo](https://github.com/KingGugu/DA-CL-4Rec))  
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
