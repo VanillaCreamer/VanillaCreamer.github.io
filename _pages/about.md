@@ -114,6 +114,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 # 💻 Service
 - Conference Reviewers:
+  - ARR January 2026
   - AAAI 2026
   - The Web Conference 2025
   - IJCNN 2025
