@@ -57,7 +57,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - **\[AAAI 2025\]** RAGAR: Retrieval Augmented Personalized Image Generation Guided by Recommendation. (Poster)    
   Run Ling, Wenji Wang, **Yuting Liu**, Guibing Guo, Haowei Liu, Jian Lu, Quanwei Zhang, Yexing Xu, Shuo Lu, Yun wang, Yihua Shao, Linying Jiang, Xingwei Wang
 
-- **\[ACL 2025\]** Stealthy attack on large language model based recommendation. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
+- **\[ACL 2025\]** Personalized text generation with contrastive activation steering. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
   Jinghao Zhang, **Yuting Liu**, Wenjie Wnag, Qiang Liu, Shu Wu, Liang Wang, Tat-Seng Chua
 
 - **\[SIGIR 2025\]** Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2504.04843), [Code](https://github.com/KingGugu/TTA4SR))  
