@@ -102,6 +102,13 @@ My research interests include multimodal recommendation systems (RS) and persona
 - **\[ECML-PKDD 2022\]** Bi-directional Contrastive Distillation for Multi-behavior Recommendation. ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-26387-3_30))  
   Yabo Chu, Enneng Yang, Qiang Liu, **Yuting Liu**, Linying Jiang, Guibing Guo
 
+### Pre-print Papers
+
+- **\[Arxiv 2026\]** Text as a Universal Interface for Transferable Personalization.
+  [Paper](https://arxiv.org/pdf/2601.04963)    
+  Yuting Liu, Jian Guan, Jia-Nan Li, Wei Wu†, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo†
+  
+
 # 📖 Educations
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
 - *2022.09 - 2024.06*, Master in Software Engineering, Northeastern University, Shenyang, China.
