@@ -135,6 +135,7 @@ My research interests include multimodal recommendation systems (RS) and persona
   - ACM Transactions on Recommender Systems (TORS)
   - Electronic Commerce Research and Applications (ECRA)
   - Knowledge-based Systems (KBS)
+  - Transaction on Information Systems (TOIS)
 
 # 🖥️ Internship
 
