@@ -23,7 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 One paper is accepted by ICML!
+- *2026.05*: &nbsp;🎉 One paper is accepted by ICML 2026!
 - *2026.02*: &nbsp;🎉 One paper is accepted by TPAMI!
 - *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026!
 - *2025.10*: &nbsp;🏆 I have just been awarded the National Scholarship!
