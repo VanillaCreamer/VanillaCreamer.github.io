@@ -23,6 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 One paper is accepted by ICML!
 - *2026.02*: &nbsp;🎉 One paper is accepted by TPAMI!
 - *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026!
 - *2025.10*: &nbsp;🏆 I have just been awarded the National Scholarship!
@@ -50,6 +51,10 @@ My research interests include multimodal recommendation systems (RS) and persona
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
+
+- **\[ICML 2026\]** ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning. ([Paper](https://arxiv.org/pdf/2602.02150))    
+  Chu Zhao, Enneng Yang, **Yuting Liu**, Jianzhe Zhao, Guibing Guo
+
 
 - **\[TPAMI 2026\]** Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://ieeexplore.ieee.org/document/11391565/), [Code](https://github.com/KingGugu/TTA4SR))    
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Jianzhe Zhao, Xingwei Wang†, and Guibing Guo†
