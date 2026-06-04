@@ -23,6 +23,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.
 - *2026.05*: &nbsp;🎉 One paper is accepted by ICML 2026!
 - *2026.02*: &nbsp;🎉 One paper is accepted by TPAMI!
 - *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026!
@@ -47,7 +48,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Surveys
 
-- **\[Arxiv 2024\]** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545), [Repo](https://github.com/KingGugu/DA-CL-4Rec))  
+- **\[TKDE 2026\]** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545), [Repo](https://github.com/KingGugu/DA-CL-4Rec))  
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
@@ -110,7 +111,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 ### Pre-print Papers
 
 - **\[Arxiv 2026\]** Text as a Universal Interface for Transferable Personalization.
-  [Paper](https://arxiv.org/pdf/2601.04963)    
+  [Paper](https://arxiv.org/pdf/2601.04963), [Code](https://github.com/AntResearchNLP/AlignXplorePlus)    
   Yuting Liu, Jian Guan, Jia-Nan Li, Wei Wu†, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo†
   
 
@@ -145,4 +146,5 @@ My research interests include multimodal recommendation systems (RS) and persona
 # 🖥️ Internship
 
 - Research Intern at [Ant Group](https://github.com/AntResearchNLP), mentored by [Jian Guan](https://jianguanthu.github.io/) and [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
+- Research Intern at Ant International AI Lab, mentored by [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
 
