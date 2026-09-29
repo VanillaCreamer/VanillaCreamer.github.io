@@ -124,7 +124,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - *2022.09 - 2024.06*, Master in Software Engineering, Northeastern University, Shenyang, China.
 - *2018.09 - 2022.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2025* National Scholarship for Doctoral Students (Top 1%)
 - *2023* First-Class Scholarship from NEU for Graduate Students
 - *2022* President Scholarship of Northeastern University for Graduate Students
@@ -147,7 +147,7 @@ My research interests include multimodal recommendation systems (RS) and persona
   - Knowledge-based Systems (KBS)
   - Transaction on Information Systems (TOIS)
 
-# 🖥️ Internship
+# 💼 Internship
 
 - Research Intern at [Ant Group](https://github.com/AntResearchNLP), mentored by [Jian Guan](https://jianguanthu.github.io/) and [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
 - Research Intern at Ant International AI Lab, mentored by [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
