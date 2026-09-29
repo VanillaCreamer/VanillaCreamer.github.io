@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+description: "Yuting Liu (刘禹廷), Ph.D. student at Northeastern University, working on personalized LLMs and recommender systems."
 author_profile: true
 redirect_from: 
   - /about/

@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Yuting Liu (刘禹廷)"
 description              : ""
+og_image                 : "images/android-chrome-512x512.png"
+url                      : "https://vanillacreamer.github.io"
 repository               : "VanillaCreamer/VanillaCreamer.github.io"
 google_scholar_stats_use_cdn : true
 
