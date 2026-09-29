@@ -148,6 +148,17 @@ body { color: $body-text; }
   a { color: $body-text; }
   a:hover { color: $accent; }
   .visible-links a:before { height: 2px; background: $accent; }
+  button { background: transparent; }
+  .navicon,
+  .navicon:before,
+  .navicon:after { background: $heading-color; }
+}
+.masthead__menu-home-item {
+  display: block !important;
+  a { color: $heading-color; }
+}
+@include breakpoint(max-width $medium - 1px) {
+  .greedy-nav a { margin: 0 .6rem; }
 }
 
 /* type hierarchy */
@@ -247,6 +258,33 @@ body { color: $body-text; }
   a:hover { color: $accent; text-decoration: none; }
   .fa-fw,
   .ai-fw { color: $muted-text; }
+}
+
+@include breakpoint(max-width $large - 1px) {
+  .profile_box { flex-wrap: wrap; }
+  .author__content {
+    flex: 1 1 0%;
+    min-width: 0;
+    padding-left: 16px;
+  }
+  .author__urls-wrapper {
+    flex: 1 0 100%;
+    margin: .75em 0 0;
+  }
+  .author__urls_sm {
+    display: flex;
+    margin-left: -12px;
+    padding: 0;
+    font-size: 1.35em;
+    a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      color: $body-text;
+    }
+  }
 }
 
 /* focus & motion */

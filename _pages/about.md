@@ -125,7 +125,7 @@ My research interests include multimodal recommendation systems (RS) and persona
   Yuting Liu, Jian Guan, Jia-Nan Li, Wei Wu†, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo†
   
 
-# 📖 Educations
+# 📖 Education
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
 - *2022.09 - 2024.06*, Master in Software Engineering, Northeastern University, Shenyang, China.
 - *2018.09 - 2022.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
