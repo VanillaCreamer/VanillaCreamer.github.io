@@ -29,6 +29,10 @@ My research interests include multimodal recommendation systems (RS) and persona
 - *2026.02*: &nbsp;🎉 One paper is accepted by TPAMI!
 - *2025.11*: &nbsp;🎉 One paper is accepted by AAAI 2026!
 - *2025.10*: &nbsp;🏆 I have just been awarded the National Scholarship!
+
+<details markdown="1">
+<summary>Earlier news (13)</summary>
+
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🔊 We released an [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) repository for personalized large language models papers.
 - *2025.04*: &nbsp;🎉 One paper is accepted by SIGIR 2025!
@@ -43,78 +47,80 @@ My research interests include multimodal recommendation systems (RS) and persona
 - *2024.05*: &nbsp;🎉 One paper is accepted by ACL 2024!
 - *2022.06*: &nbsp;🎓 I graduated from NEU!
 
+</details>
+
 # 📝 Publications 
 
 † indicates the corresponding author.
 
 ### Surveys
 
-- **\[TKDE 2026\]** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545), [Repo](https://github.com/KingGugu/DA-CL-4Rec))  
+- **TKDE 2026** Data Augmentation for Sequential Recommendation: A Survey. ([Paper](https://arxiv.org/pdf/2409.13545), [Repo](https://github.com/KingGugu/DA-CL-4Rec))  
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Guibing Guo†, Linying Jiang, Xingwei Wang†, Jianzhe Zhao
 
 ### Research Papers
 
-- **\[EMNLP 2026\]** Text as a Universal Interface for Transferable Personalization. (**Oral**)([Paper](https://arxiv.org/abs/2601.04963), [Repo](https://github.com/AntResearchNLP/AlignX-Family/blob/main/AlignXplorePlus/README.md)).     
+- **EMNLP 2026** Text as a Universal Interface for Transferable Personalization. (**Oral**)([Paper](https://arxiv.org/abs/2601.04963), [Repo](https://github.com/AntResearchNLP/AlignX-Family/blob/main/AlignXplorePlus/README.md)).     
   **Yuting Liu**, Jian Guan, Jia-Nan Li, Wei Wu, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo
 
-- **\[ICML 2026\]** ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning. ([Paper](https://arxiv.org/pdf/2602.02150))    
+- **ICML 2026** ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning. ([Paper](https://arxiv.org/pdf/2602.02150))    
   Chu Zhao, Enneng Yang, **Yuting Liu**, Jianzhe Zhao, Guibing Guo
 
 
-- **\[TPAMI 2026\]** Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://ieeexplore.ieee.org/document/11391565/), [Code](https://github.com/KingGugu/TTA4SR))    
+- **TPAMI 2026** Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://ieeexplore.ieee.org/document/11391565/), [Code](https://github.com/KingGugu/TTA4SR))    
   Yizhou Dang, Enneng Yang, **Yuting Liu**, Jianzhe Zhao, Xingwei Wang†, and Guibing Guo†
 
-- **\[AAAI 2025\]** RAGAR: Retrieval Augmented Personalized Image Generation Guided by Recommendation. (Poster)    
+- **AAAI 2025** RAGAR: Retrieval Augmented Personalized Image Generation Guided by Recommendation. (Poster)    
   Run Ling, Wenji Wang, **Yuting Liu**, Guibing Guo, Haowei Liu, Jian Lu, Quanwei Zhang, Yexing Xu, Shuo Lu, Yun wang, Yihua Shao, Linying Jiang, Xingwei Wang
 
-- **\[ACL 2025\]** Personalized text generation with contrastive activation steering. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
+- **ACL 2025** Personalized text generation with contrastive activation steering. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
   Jinghao Zhang, **Yuting Liu**, Wenjie Wnag, Qiang Liu, Shu Wu, Liang Wang, Tat-Seng Chua
 
-- **\[SIGIR 2025\]** Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2504.04843), [Code](https://github.com/KingGugu/TTA4SR))  
+- **SIGIR 2025** Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2504.04843), [Code](https://github.com/KingGugu/TTA4SR))  
   Yizhou Dang, **Yuting Liu**, Enneng Yang, Minhan Huang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
-- **\[DASFAA 2025\]** Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation. (Oral)  
+- **DASFAA 2025** Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation. (Oral)  
   **Yuting Liu**, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
-- **\[DASFAA 2025\]** Self-supervised Hierarchical Representation for Medication Recommendation. (Oral)  
+- **DASFAA 2025** Self-supervised Hierarchical Representation for Medication Recommendation. (Oral)  
   Yuliang Liang, **Yuting Liu**, Yizhou Dang, Enneng Yang, Guibing Guo, Wei Cai, Jianzhe Zhao, Xingwei Wang
 
-- **\[WWW 2025\]** Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation. (Oral)  
+- **WWW 2025** Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation. (Oral)  
   Chu Zhao, Enneng Yang, Yuliang Liang, Pengxiang Lan, **Yuting Liu**, Jianzhe Zhao, Guibing Guo, Xingwei Wang
 
-- **\[ICASSP 2025\]** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.  
+- **ICASSP 2025** Harnessing Content and Structure in ID for Multimodal Recommendation. Just Accepted.  
   **Yuting Liu**, Enneng Yang, Yizhou Dang, Qiang Liu, Yuliang Liang, Guibing Guo, Linying Jiang†, Xingwei Wang
 
-- **\[AAAI 2025\]** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. (Oral ~20%).  
+- **AAAI 2025** CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation. (Oral ~20%).  
   **Yuting Liu**, Jinghao Zhang, Yizhou Dang, Yuliang Liang, Qiang Liu, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
-- **\[AAAI 2025\]** Advancing Large Language Model Fine-Tuning: An Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.  
+- **AAAI 2025** Advancing Large Language Model Fine-Tuning: An Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion. Just Accepted.  
   Pengxiang Lan, Enneng Yang, **Yuting Liu**, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
   
-- **\[AAAI 2025\]** Augmenting Sequential Recommendation with Balanced Relevance and Diversity. Just Accepted.  
+- **AAAI 2025** Augmenting Sequential Recommendation with Balanced Relevance and Diversity. Just Accepted.  
   Yizhou Dang, Jiahui Zhang, **Yuting Liu**, Enneng Yang, Yuliang Liang, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
 
-- **\[AAAI 2025\]** Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation. Just Accepted.  
+- **AAAI 2025** Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation. Just Accepted.  
   Shuwei Gong, **Yuting Liu**, Yizhou Dang, Guibing Guo†, Jianzhe Zhao, Xingwei Wang
 
-- **\[TOIS 2024\]** Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences. ([Paper](https://dl.acm.org/doi/10.1145/3706633),[Code](https://github.com/KingGugu/GFEraser))  
+- **TOIS 2024** Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences. ([Paper](https://dl.acm.org/doi/10.1145/3706633),[Code](https://github.com/KingGugu/GFEraser))  
   Yizhou Dang, **Yuting Liu**, Enneng Yang, Guibing Guo†, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
-- **\[RecSys 2024\]** Repeated Padding for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2403.06372),[Code](https://github.com/KingGugu/RepPad))  
+- **RecSys 2024** Repeated Padding for Sequential Recommendation. ([Paper](https://arxiv.org/abs/2403.06372),[Code](https://github.com/KingGugu/RepPad))  
   Yizhou Dang, **Yuting Liu**, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang†, Jianzhe Zhao†
 
-- **\[ACL 2024\]** Stealthy attack on large language model based recommendation. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
+- **ACL 2024** Stealthy attack on large language model based recommendation. ([Paper](https://aclanthology.org/2024.acl-long.318/), [Code](https://github.com/CRIPAC-DIG/RecTextAttack))  
   Jinghao Zhang, **Yuting Liu**, Qiang Liu, Shu Wu†, Guibing Guo, and Liang Wang
 
-- **\[KBS 2024\]** Video and audio are images: A cross-modal mixer for original data on video–audio retrieval. ([Paper](https://www.sciencedirect.com/science/article/pii/S095070512400710X), [Code](https://github.com/Alexius233/Video-and-Audio-are-Images))  
+- **KBS 2024** Video and audio are images: A cross-modal mixer for original data on video–audio retrieval. ([Paper](https://www.sciencedirect.com/science/article/pii/S095070512400710X), [Code](https://github.com/Alexius233/Video-and-Audio-are-Images))  
    Zichen Yuan, Qi Shen, Bingyi Zheng, **Yuting Liu**†, Linying Jiang, Guibing Guo†
 
-- **\[ECML-PKDD 2022\]** Bi-directional Contrastive Distillation for Multi-behavior Recommendation. ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-26387-3_30))  
+- **ECML-PKDD 2022** Bi-directional Contrastive Distillation for Multi-behavior Recommendation. ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-26387-3_30))  
   Yabo Chu, Enneng Yang, Qiang Liu, **Yuting Liu**, Linying Jiang, Guibing Guo
 
 ### Pre-print Papers
 
-- **\[Arxiv 2026\]** Text as a Universal Interface for Transferable Personalization.
+- **Arxiv 2026** Text as a Universal Interface for Transferable Personalization.
   [Paper](https://arxiv.org/pdf/2601.04963), [Code](https://github.com/AntResearchNLP/AlignXplorePlus)    
   Yuting Liu, Jian Guan, Jia-Nan Li, Wei Wu†, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo†
   
