@@ -287,6 +287,22 @@ body { color: $body-text; }
   }
 }
 
+/* footer */
+.site-footer {
+  max-width: 1076px;
+  margin: 4em auto 0;
+  padding: 1.5em 0 2.5em;
+  color: $muted-text;
+  font-size: .85em;
+  border-top: 1px solid $hairline;
+}
+@include breakpoint(max-width 1107px) {
+  .site-footer {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+}
+
 /* focus & motion */
 a:focus { outline: none; }
 a:focus-visible {
