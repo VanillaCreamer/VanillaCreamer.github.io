@@ -107,3 +107,32 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ==========================================================================
+   Homepage polish
+   ========================================================================== */
+
+/* centered sidebar + content column with a readable measure */
+@include breakpoint($large) {
+  #main {
+    display: grid;
+    grid-template-columns: 220px minmax(0, 800px);
+    column-gap: 56px;
+    justify-content: center;
+    max-width: none;
+  }
+  .sidebar,
+  .page {
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+  }
+  .sidebar { align-self: start; }
+  .masthead__inner-wrap { max-width: 1092px; }
+}
+
+/* type hierarchy */
+.page__content {
+  line-height: 1.65;
+}
