@@ -303,6 +303,45 @@ body { color: $body-text; }
   }
 }
 
+/* dark mode (follows the OS setting) */
+@media (prefers-color-scheme: dark) {
+  html,
+  body,
+  .masthead,
+  .greedy-nav { background-color: #0f1216; }
+  body { color: #c9d1d9; }
+  .masthead,
+  .page__content h1,
+  .site-footer { border-color: #262c34; }
+  .greedy-nav a,
+  .author__urls a,
+  .author__urls_sm a { color: #c9d1d9; }
+  .greedy-nav .hidden-links { background: #161b22; border-color: #30363d; }
+  .greedy-nav .hidden-links:after { border-color: #161b22 transparent; }
+  .greedy-nav .navicon,
+  .greedy-nav .navicon:before,
+  .greedy-nav .navicon:after { background: #e6edf3; }
+  .masthead__menu-home-item a,
+  .sidebar .author__name,
+  .page__content h1,
+  .page__content strong { color: #e6edf3; }
+  a,
+  .page__content h3,
+  .page__content details > summary { color: #7aa7ff; }
+  .page__content a { text-decoration-color: rgba(122, 167, 255, .4); }
+  .page__content h3 + ul > li > strong:first-child,
+  .page__content h3 + ul > li > p:first-child > strong:first-child {
+    color: #a8c7ff;
+    background: rgba(122, 167, 255, .12);
+    border-color: rgba(122, 167, 255, .28);
+  }
+  .author__bio,
+  .site-footer,
+  .page__content li > em:first-child,
+  #-publications + p { color: #8b949e; }
+  .author__avatar img { box-shadow: 0 0 0 4px #0f1216, 0 0 0 5px #30363d; }
+}
+
 /* focus & motion */
 a:focus { outline: none; }
 a:focus-visible {
