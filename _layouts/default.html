@@ -27,6 +27,10 @@ layout: compress
       </article>
     </div>
 
+    <footer class="site-footer">
+      © {{ site.time | date: "%Y" }} {{ site.author.name }} · Last updated {{ site.time | date: "%Y-%m-%d" }}
+    </footer>
+
     {% include scripts.html %}
 
   </body>
