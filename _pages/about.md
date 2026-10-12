@@ -158,4 +158,5 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 - Research Intern at [Ant Group](https://github.com/AntResearchNLP), mentored by [Jian Guan](https://jianguanthu.github.io/) and [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
 - Research Intern at Ant International AI Lab, mentored by [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
+- Research Intern at Tencent Hunyuan Foundation Model Team, mentored by Yuyuan Zeng.
 
