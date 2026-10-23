@@ -121,10 +121,8 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Pre-print Papers
 
-- **Arxiv 2026** Text as a Universal Interface for Transferable Personalization.
-  [Paper](https://arxiv.org/pdf/2601.04963), [Code](https://github.com/AntResearchNLP/AlignXplorePlus)    
-  Yuting Liu, Jian Guan, Jia-Nan Li, Wei Wu†, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo†
-  
+- **arXiv 2026** Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning. ([Paper](https://arxiv.org/abs/2608.09507), [Code](https://github.com/AntResearchNLP/AlignX-Family/tree/main/AlignXada))  
+  **Yuting Liu**, Wei Wu†, Jianzhe Zhao, Guibing Guo†
 
 # 📖 Education
 - *2024.09 - now*, Ph.D. student in Software Engineering, Northeastern University, Shenyang, China.
