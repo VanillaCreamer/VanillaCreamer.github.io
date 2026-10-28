@@ -24,7 +24,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🏆 Our EMNLP 2026 paper received a SAC Highlight!
+- *2026.10*: &nbsp;🏆 Our EMNLP 2026 paper received a SAC Highlight Award!
 - *2026.08*: &nbsp;🎉 One paper is accepted by EMNLP 2026!
 - *2026.05*: &nbsp;🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.
 - *2026.05*: &nbsp;🎉 One paper is accepted by ICML 2026!
@@ -62,7 +62,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 
 ### Research Papers
 
-- **EMNLP 2026** Text as a Universal Interface for Transferable Personalization. (**Oral, SAC Highlight**)([Paper](https://arxiv.org/abs/2601.04963), [Repo](https://github.com/AntResearchNLP/AlignX-Family/blob/main/AlignXplorePlus/README.md)).     
+- **EMNLP 2026** Text as a Universal Interface for Transferable Personalization. (**Oral, SAC Highlight Award**)([Paper](https://arxiv.org/abs/2601.04963), [Repo](https://github.com/AntResearchNLP/AlignX-Family/blob/main/AlignXplorePlus/README.md)).     
   **Yuting Liu**, Jian Guan, Jia-Nan Li, Wei Wu, Jiang-Ming Yang, Jianzhe Zhao, Guibing Guo
 
 - **ICML 2026** ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning. ([Paper](https://arxiv.org/pdf/2602.02150))    
@@ -131,7 +131,7 @@ My research interests include multimodal recommendation systems (RS) and persona
 - *2018.09 - 2022.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
 # 🏆 Honors and Awards
-- *2026* EMNLP 2026 SAC Highlight
+- *2026* EMNLP 2026 SAC Highlight Award
 - *2025* National Scholarship for Doctoral Students (Top 1%)
 - *2023* First-Class Scholarship from NEU for Graduate Students
 - *2022* President Scholarship of Northeastern University for Graduate Students
